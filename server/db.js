@@ -4,7 +4,7 @@ const pool = new Pool({
     user:'postgres',
     host:'localhost',
     port:5432,
-    password:'kishorpostgres01',
+    password:'2004',
     database:'chat_app',
     max:10
 });
